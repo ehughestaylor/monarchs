@@ -1,0 +1,22 @@
+{
+  "name": "monarchs",
+  "version": "1.0.0",
+  "description": "monarchs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehughestaylor/monarchs.git"
+  },
+  "author": "ehtaylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehughestaylor/monarchs/issues"
+  },
+  "homepage": "https://github.com/ehughestaylor/monarchs",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
